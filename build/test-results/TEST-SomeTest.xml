@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite errors="0" failures="0" hostname="ostml0152880.bskyb.com" name="SomeTest" tests="1" time="0.073" timestamp="2012-02-17T15:41:37">
-  <properties />
-  <testcase classname="SomeTest" name="aTypicalTestMethod" time="0.0020" />
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
